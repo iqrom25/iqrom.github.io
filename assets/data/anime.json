@@ -1,0 +1,65 @@
+{
+  "anime": [
+    {
+      "img": "https://static.wikia.nocookie.net/bokunoheroacademia/images/d/d9/Izuku_Midoriya_school_profile.png",
+      "name": "Midoriya Izuku",
+      "quirk": "One For All"
+    },
+    {
+        "img": "https://static.wikia.nocookie.net/bokunoheroacademia/images/8/83/Katsuki_Bakugo_School_Uniform_Full_Body.png",
+        "name": "Bakugo Katsuki",
+        "quirk": "Explosion"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/bokunoheroacademia/images/c/c4/Shoto_Todoroki_school_profile.png",
+        "name": "Shoto Todoroki",
+        "quirk": "Half-Cold Half-Hot"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/bokunoheroacademia/images/6/69/Ochaco_School_Uniform_Full_Body.png",
+        "name": "Uraraka Ochako",
+        "quirk": "Zero Gravity"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/bokunoheroacademia/images/e/ec/Tenya_Ida_School_Uniform.png",
+        "name": "Ida Tenya",
+        "quirk": "Engine"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/bokunoheroacademia/images/3/3a/Eijiro_Kirishima_Student_Uniform_Profile.png",
+        "name": "Kirishima Eijiro",
+        "quirk": "Hardening"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/bokunoheroacademia/images/c/cd/Toshinori_Yagi_Golden_Age_Hero_Costume_%28Anime%29.png",
+        "name": "All Might",
+        "quirk": "One For All"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/bokunoheroacademia/images/8/82/Shota_Aizawa_Hero_Costume_%28Anime%29.png",
+        "name": "Aizawa Shota",
+        "quirk": "Erasure"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/bokunoheroacademia/images/a/a6/Enji_Todoroki_Second_Hero_Costume_%28Anime%29.png",
+        "name": "Endeavor",
+        "quirk": "Hellflame"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/bokunoheroacademia/images/8/82/Dabi_Manga_Profile.png",
+        "name": "Dabi",
+        "quirk": "Blueflame"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/bokunoheroacademia/images/9/9e/Tomura_Shigaraki_Anime_Action_2.png",
+        "name": "Shigaraki Tomura",
+        "quirk": "Decoy"
+      },     
+      {
+        "img": "https://static.wikia.nocookie.net/bokunoheroacademia/images/2/2b/All_For_One%27s_current_mask.png",
+        "name": "All For One",
+        "quirk": "All For One"
+      }
+  
+  ]
+}
